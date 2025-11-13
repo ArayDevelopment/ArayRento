@@ -72,7 +72,7 @@ global $groupedAdvertisements;
                             </svg>
                             <ul class="sub__menu">
                                 <li class="sub__menu--items"><a class="sub__menu--link" href="ArayRentoView/listing-list.php">لیست
-                                        لیست</a></li>
+                                    </a></li>
                             </ul>
                         </li>
                         <li class="main__menu--items"><a class="main__menu--link" href="index.php">صفحات</a>
